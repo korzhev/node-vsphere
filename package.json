@@ -17,7 +17,7 @@
   "dependencies": {
     "joi": "6.x.x",
     "lodash": "3.x.x",
-    "node-vsphere-soap": "^0.0.2-5"
+    "node-vsphere-soap": "git+https://github.com/korzhev/node-vsphere-soap.git"
   },
   "devDependencies": {
     "code": "1.x.x",
