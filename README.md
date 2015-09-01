@@ -1,3 +1,6 @@
+# This this fork is for custom plugin.
+May be late there will be merge request
+
 # node-vsphere
 
 [![Join the chat at https://gitter.im/reedog117/node-vsphere](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reedog117/node-vsphere?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
