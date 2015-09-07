@@ -1,5 +1,5 @@
-# This this fork is for custom plugin.
-May be late there will be merge request
+# This fork is for custom plugin.
+May be later there will be merge request
 
 # node-vsphere
 
